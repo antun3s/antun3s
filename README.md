@@ -1,4 +1,9 @@
-### Hi I'm Bruno Antunes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hello, I'm Bruno Antunes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+A simple Brazilian who likes to learn anything, from physics to philosophy, and of course technology.
+
+A linux user for over 10 years and currently using <img src="https://www.wiki.manjaro.org/images/0/07/Manjaro-logo.png" width="15px"> Manjaro Linux with <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/gnome-20.png">GNOME. I ❤️love it.
+
 
 <!--
 **antun3s/antun3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Como migrar o Syncthing em aplicação para docker](https://brunoantuness.wordpress.com/2022/05/20/como-migrar-o-syncthing-em-aplicacao-para-docker/)
 - [Manjaro um dos melhores Linux que já usei](https://brunoantuness.wordpress.com/2021/08/10/manjaro-um-dos-melhores-linux-que-ja-usei/)
