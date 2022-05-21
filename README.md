@@ -2,7 +2,7 @@
 
 A simple Brazilian who likes to learn anything, from physics to philosophy, and of course technology.
 
-A linux user for over 10 years and currently using <img src="https://www.wiki.manjaro.org/images/0/07/Manjaro-logo.png" width="15px"> Manjaro Linux with <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/gnome-20.png">GNOME. I ❤️love it.
+A linux user for over 10 years and currently using  Manjaro Linux with GNOME. <img src="https://www.wiki.manjaro.org/images/0/07/Manjaro-logo.png" width="15px"><img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/gnome-18.png"> 
 
 
 <!--
