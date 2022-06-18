@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como usar dispositivos USB em bridge no VirtualBox](https://brunoantuness.wordpress.com/2022/06/18/como-usar-dispositivos-usb-em-bridge-no-virtualbox/)
 - [Como criar chaves GnuPG](https://brunoantuness.wordpress.com/2022/06/16/como-criar-chaves-gnupg/)
 - [Como migrar o Syncthing em aplicação para docker](https://brunoantuness.wordpress.com/2022/05/20/como-migrar-o-syncthing-em-aplicacao-para-docker/)
 - [Manjaro um dos melhores Linux que já usei](https://brunoantuness.wordpress.com/2021/08/10/manjaro-um-dos-melhores-linux-que-ja-usei/)
 - [Correção para a tecla Super a abrir menu no Gnome-Shell](https://brunoantuness.wordpress.com/2020/05/11/correcao-para-a-tecla-super-a-abrir-menu-no-gnome-shell/)
-- [O comando tldr pode de ajudar mais que o –help](https://brunoantuness.wordpress.com/2020/04/04/o-comando-tldr-pode-de-ajudar-mais-que-o-help/)
 <!-- BLOG-POST-LIST:END -->
