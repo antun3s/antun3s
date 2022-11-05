@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como melhorar o visual do Telegram em seu Linux](https://brunoantuness.wordpress.com/2022/11/05/como-melhorar-o-visual-do-telegram-em-seu-linux/)
 - [Agilizar pesquisas no Linphone](https://brunoantuness.wordpress.com/2022/08/22/agilizar-pesquisas-no-linphone/)
 - [Como usar dispositivos USB em bridge no VirtualBox](https://brunoantuness.wordpress.com/2022/06/18/como-usar-dispositivos-usb-em-bridge-no-virtualbox/)
 - [Como criar chaves GnuPG](https://brunoantuness.wordpress.com/2022/06/16/como-criar-chaves-gnupg/)
 - [Como migrar o Syncthing em aplicação para docker](https://brunoantuness.wordpress.com/2022/05/20/como-migrar-o-syncthing-em-aplicacao-para-docker/)
-- [Manjaro um dos melhores Linux que já usei](https://brunoantuness.wordpress.com/2021/08/10/manjaro-um-dos-melhores-linux-que-ja-usei/)
 <!-- BLOG-POST-LIST:END -->
