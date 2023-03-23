@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como limitar o número de chamadas no Linphone](https://brunoantuness.wordpress.com/2023/03/23/como-limitar-o-numero-de-chamadas-no-linphone/)
 - [Bruteforce para recuperar a senha de certificado digital &lpar;PFX&rpar;](https://brunoantuness.wordpress.com/2023/01/23/bruteforce-para-recuperar-a-senha-de-certificado-digital-pfx/)
 - [Template de Zabbix para monitorar o banco do SCI Único Sistema Contábil](https://brunoantuness.wordpress.com/2022/12/08/template-de-zabbix-para-monitorar-o-banco-do-sci-unico-sistema-contabil/)
 - [Como melhorar o visual do Telegram em seu Linux](https://brunoantuness.wordpress.com/2022/11/05/como-melhorar-o-visual-do-telegram-em-seu-linux/)
 - [Agilizar pesquisas no Linphone](https://brunoantuness.wordpress.com/2022/08/22/agilizar-pesquisas-no-linphone/)
-- [Como usar dispositivos USB em bridge no VirtualBox](https://brunoantuness.wordpress.com/2022/06/18/como-usar-dispositivos-usb-em-bridge-no-virtualbox/)
 <!-- BLOG-POST-LIST:END -->
