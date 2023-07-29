@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como resolver o “OpenSSL unsupported”  ou “ciphers or is too long” no OpenVPN](https://brunoantuness.wordpress.com/2023/07/29/como-resolver-o-openssl-unsupported-ou-ciphers-or-is-too-long-no-openvpn/)
 - [Como criar seu próprio servidor de streaming de música](https://brunoantuness.wordpress.com/2023/04/23/como-criar-seu-proprio-servidor-de-streaming-de-musica/)
 - [Como limitar o número de chamadas no Linphone](https://brunoantuness.wordpress.com/2023/03/23/como-limitar-o-numero-de-chamadas-no-linphone/)
 - [Bruteforce para recuperar a senha de certificado digital &lpar;PFX&rpar;](https://brunoantuness.wordpress.com/2023/01/23/bruteforce-para-recuperar-a-senha-de-certificado-digital-pfx/)
 - [Template de Zabbix para monitorar o banco do SCI Único Sistema Contábil](https://brunoantuness.wordpress.com/2022/12/08/template-de-zabbix-para-monitorar-o-banco-do-sci-unico-sistema-contabil/)
-- [Como melhorar o visual do Telegram em seu Linux](https://brunoantuness.wordpress.com/2022/11/05/como-melhorar-o-visual-do-telegram-em-seu-linux/)
 <!-- BLOG-POST-LIST:END -->
