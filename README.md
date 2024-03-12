@@ -2,7 +2,7 @@
 
 A simple Brazilian who likes to learn anything, from physics to philosophy, and of course technology.
 
-A linux user for over 14 years and currently using  Manjaro Linux with GNOME. <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="15px"><img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/gnome-18.png"> 
+A linux user for over 14 years and currently using Fedora with GNOME. <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="15px"><img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/gnome-18.png"> 
 
 
 <!--
