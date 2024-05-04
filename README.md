@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [𝗦𝗵𝗮𝗿𝗶𝗻𝗴 𝗠𝘆 𝗧𝗲𝗮𝗺 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀!](https://brunoantuness.wordpress.com/2024/05/04/%f0%9d%97%a6%f0%9d%97%b5%f0%9d%97%ae%f0%9d%97%bf%f0%9d%97%b6%f0%9d%97%bb%f0%9d%97%b4-%f0%9d%97%a0%f0%9d%98%86-%f0%9d%97%a7%f0%9d%97%b2%f0%9d%97%ae%f0%9d%97%ba-%f0%9d%97%9c%f0%9d%97%bb%f0%9d%98%81/)
 - [Ao escolher o melhor HD/SSD, escute quem tem mais de 270mil deles](https://brunoantuness.wordpress.com/2024/03/09/ao-escolher-o-melhor-hd-ssd-escute-quem-tem-mais-de-270mil-deles/)
 - [Como resolver o “OpenSSL unsupported”  ou “ciphers or is too long” no OpenVPN](https://brunoantuness.wordpress.com/2023/07/29/como-resolver-o-openssl-unsupported-ou-ciphers-or-is-too-long-no-openvpn/)
 - [Como criar seu próprio servidor de streaming de música](https://brunoantuness.wordpress.com/2023/04/23/como-criar-seu-proprio-servidor-de-streaming-de-musica/)
 - [Como limitar o número de chamadas no Linphone](https://brunoantuness.wordpress.com/2023/03/23/como-limitar-o-numero-de-chamadas-no-linphone/)
-- [Bruteforce para recuperar a senha de certificado digital &lpar;PFX&rpar;](https://brunoantuness.wordpress.com/2023/01/23/bruteforce-para-recuperar-a-senha-de-certificado-digital-pfx/)
 <!-- BLOG-POST-LIST:END -->
