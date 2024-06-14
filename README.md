@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Configurar o iDRAC sem dar boot no servidor com Proxmox](https://brunoantuness.wordpress.com/2024/06/14/configurar-o-idrac-sem-dar-boot-no-servidor-com-proxmox/)
 - [Como Bloquear Propagandas no YouTube](https://brunoantuness.wordpress.com/2024/06/09/como-bloquear-propagandas-no-youtube/)
 - [Utilizando Shell para baixar todas as edições de uma revista](https://brunoantuness.wordpress.com/2024/05/31/utilizando-shell-para-baixar-todas-as-edicoes-de-uma-revista/)
 - [Sharing My Team Integration Practices!](https://brunoantuness.wordpress.com/2024/05/04/%f0%9d%97%a6%f0%9d%97%b5%f0%9d%97%ae%f0%9d%97%bf%f0%9d%97%b6%f0%9d%97%bb%f0%9d%97%b4-%f0%9d%97%a0%f0%9d%98%86-%f0%9d%97%a7%f0%9d%97%b2%f0%9d%97%ae%f0%9d%97%ba-%f0%9d%97%9c%f0%9d%97%bb%f0%9d%98%81/)
 - [Ao escolher o melhor HD/SSD, escute quem tem mais de 270mil deles](https://brunoantuness.wordpress.com/2024/03/09/ao-escolher-o-melhor-hd-ssd-escute-quem-tem-mais-de-270mil-deles/)
-- [Como resolver o “OpenSSL unsupported”  ou “ciphers or is too long” no OpenVPN](https://brunoantuness.wordpress.com/2023/07/29/como-resolver-o-openssl-unsupported-ou-ciphers-or-is-too-long-no-openvpn/)
 <!-- BLOG-POST-LIST:END -->
