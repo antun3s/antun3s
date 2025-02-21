@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifique suas Conexões SSH com o um plugin no Zsh](https://brunoantuness.wordpress.com/2025/02/21/simplifique-suas-conexoes-ssh-com-o-um-plugin-no-zsh/)
 - [Como descobri a localização de um vídeo usando técnicas de OSINT](https://brunoantuness.wordpress.com/2024/12/09/como-descobri-a-localizacao-de-um-video-usando-tecnicas-de-osint/)
 - [Como Usar SSH como Proxy no Navegador](https://brunoantuness.wordpress.com/2024/08/14/como-usar-ssh-como-proxy-no-navegador/)
 - [Configurar o iDRAC sem dar boot no servidor com Proxmox](https://brunoantuness.wordpress.com/2024/06/14/configurar-o-idrac-sem-dar-boot-no-servidor-com-proxmox/)
 - [Como Bloquear Propagandas no YouTube](https://brunoantuness.wordpress.com/2024/06/09/como-bloquear-propagandas-no-youtube/)
-- [Utilizando Shell para baixar todas as edições de uma revista](https://brunoantuness.wordpress.com/2024/05/31/utilizando-shell-para-baixar-todas-as-edicoes-de-uma-revista/)
 <!-- BLOG-POST-LIST:END -->
